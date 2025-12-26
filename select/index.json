@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "卒業",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-26T09:02:26.404386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "Zone",
+      "has_synced": false,
+      "path": "select/01_卒業_Zone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "bump.y",
+      "has_synced": true,
+      "path": "select/02_卒業_bump.y.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "斉藤由貴",
+      "has_synced": true,
+      "path": "select/03_卒業_斉藤由貴.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "Yutaka Ozaki",
+      "has_synced": true,
+      "path": "select/04_卒業_Yutaka_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "尾崎豊",
+      "has_synced": true,
+      "path": "select/05_卒業_尾崎豊.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "卒業―GRADUATION―",
+      "artist": "Momoko Kikuchi",
+      "has_synced": true,
+      "path": "select/06_卒業―GRADUATION―_Momoko_Kikuchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "卒業-PIANO SOLO-",
+      "artist": "菊池桃子",
+      "has_synced": false,
+      "path": "select/07_卒業-PIANO_SOLO-_菊池桃子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "卒業(GRADUATION)",
+      "artist": "Momoko Kikuchi",
+      "has_synced": true,
+      "path": "select/08_卒業(GRADUATION)_Momoko_Kikuchi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "Saito Yuki",
+      "has_synced": true,
+      "path": "select/09_卒業_Saito_Yuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/10_卒業_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "Yuki Saito",
+      "has_synced": true,
+      "path": "select/11_卒業_Yuki_Saito.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/12_卒業_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "斉藤由貴",
+      "has_synced": true,
+      "path": "select/13_卒業_斉藤由貴.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/14_卒業_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "卒業",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/15_卒業_フジファブリック.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卒業",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_卒業_My_Hair_is_Bad.txt"
+    }
+  ]
+}
